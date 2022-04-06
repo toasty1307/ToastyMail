@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastyMail.Bot", "ToastyMail.Bot\ToastyMail.Bot.csproj", "{C78089F4-DF3B-461B-8DB2-121D6499ACCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastyMail.Dashboard", "ToastyMail.Dashboard\ToastyMail.Dashboard.csproj", "{C3815CE0-8AF2-4D13-86A9-AF4A8C962707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C78089F4-DF3B-461B-8DB2-121D6499ACCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78089F4-DF3B-461B-8DB2-121D6499ACCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78089F4-DF3B-461B-8DB2-121D6499ACCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78089F4-DF3B-461B-8DB2-121D6499ACCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3815CE0-8AF2-4D13-86A9-AF4A8C962707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3815CE0-8AF2-4D13-86A9-AF4A8C962707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3815CE0-8AF2-4D13-86A9-AF4A8C962707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3815CE0-8AF2-4D13-86A9-AF4A8C962707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
